@@ -20,9 +20,9 @@ Menu-driven interactive interface
 
 **Technologies Used**
 
-Python 
-colorama library
-os module
+Python |
+colorama library |
+os module |
 msvcrt (for keyboard input – Windows only)
 
 **Author**
